@@ -1,0 +1,2 @@
+# HuffmanC
+Huffman Encoding Program
